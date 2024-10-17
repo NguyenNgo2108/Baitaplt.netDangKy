@@ -1,0 +1,16 @@
+C:\Users\nemol\source\repos\DangKy\DangKy\bin\Debug\net8.0-windows\DangKy.exe
+C:\Users\nemol\source\repos\DangKy\DangKy\bin\Debug\net8.0-windows\DangKy.deps.json
+C:\Users\nemol\source\repos\DangKy\DangKy\bin\Debug\net8.0-windows\DangKy.runtimeconfig.json
+C:\Users\nemol\source\repos\DangKy\DangKy\bin\Debug\net8.0-windows\DangKy.dll
+C:\Users\nemol\source\repos\DangKy\DangKy\bin\Debug\net8.0-windows\DangKy.pdb
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\DangKy.Form1.resources
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\DangKy.csproj.GenerateResource.cache
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\DangKy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\DangKy.AssemblyInfoInputs.cache
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\DangKy.AssemblyInfo.cs
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\DangKy.csproj.CoreCompileInputs.cache
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\DangKy.dll
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\refint\DangKy.dll
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\DangKy.pdb
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\DangKy.genruntimeconfig.cache
+C:\Users\nemol\source\repos\DangKy\DangKy\obj\Debug\net8.0-windows\ref\DangKy.dll
